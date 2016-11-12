@@ -1,0 +1,33 @@
+{
+  "name": "weboptimize",
+  "version": "1.0.0",
+  "description": "first time using npm sweg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janus2585/optimize.git"
+  },
+  "keywords": [
+    "swag",
+    "chill",
+    "sweg"
+  ],
+  "author": "Blake Younger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janus2585/optimize/issues"
+  },
+  "homepage": "https://github.com/Janus2585/optimize#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.3",
+    "rename": "^1.0.3"
+  }
+}
